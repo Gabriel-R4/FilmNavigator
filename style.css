@@ -54,3 +54,25 @@ main {
   letter-spacing: 0.5px;
   align-items: center;
 }
+.movie-info h3 {
+  margin: 0;
+}
+
+.movie-info span {
+  background-color: #22254b;
+  padding: 0.25rem 0.5rem;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
+.movie-info span.green {
+  color: #2ec22e;
+}
+
+.movie-info span.orange {
+  color: #ffa500;
+}
+
+.movie-info span.red {
+  color: #ff0000;
+}
